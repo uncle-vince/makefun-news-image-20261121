@@ -1,12 +1,12 @@
 # The World in One Image — 21 November 2026
 
-![make.fun bounty](https://make.fun/badge/news-image-20261121.svg)
-![make.fun rank](https://make.fun/badge/news-image-20261121/uncle-vince/makefun-news-image-20261121/rank.svg)
-![make.fun reward](https://make.fun/badge/news-image-20261121/uncle-vince/makefun-news-image-20261121/reward.svg)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/uncle-vince/makefun-news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/uncle-vince/makefun-news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 One image sums up the world news of Saturday 21 November 2026: 40 stories, 7 regions, one front page.
 
-Competition page: https://make.fun/bounty/news-image-20261121
+Competition page: [news-image-20261121 on make.fun](https://make.fun/bounty/news-image-20261121)
 
 ## What is in the image
 
